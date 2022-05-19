@@ -1,0 +1,26 @@
+/*Created by: Grace S
+*Created on: Apr 2022
+*This CSS file defines the style for index.html
+*ICS2O-Unit3-04-HTML-FarenheitCelsius
+*/
+
+body {
+  background-color: rgb(127, 221, 181);
+  text-align: center;
+}
+
+h5 {  border-style: solid;
+  background-color: #6FC19E;
+  color: #cf779d;
+  border-color: #DD7FA7;
+  text-align: center;
+}
+
+.mdl-layout-title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #DD7FA7;
+	font-weight: bold;
+  height: 50px;
+}
